@@ -1,0 +1,1 @@
+Descubra nosso sistema de CRM simplificado! Com ele, você pode adicionar, visualizar, atualizar e deletar clientes de maneira fácil e rápida. Ideal para pequenas empresas e iniciantes em programação. Experimente agora e veja como é fácil gerenciar suas informações de clientes!
